@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1680706999,,"wq"
+|2,0,1680708335,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -25,26 +25,51 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/mango
-|4,48,2,0,1680706999,"~/mango"
-'1  6  0  ~/capgemini
-|4,49,6,0,1680705865,"~/capgemini"
+'0  3  0  ~/man
+|4,48,3,0,1680708335,"~/man"
+'1  2  0  ~/mango
+|4,49,2,0,1680706999,"~/mango"
+'2  6  0  ~/capgemini
+|4,50,6,0,1680705865,"~/capgemini"
 
 # Jumplist (newest first):
+-'  3  0  ~/man
+|4,39,3,0,1680708335,"~/man"
+-'  1  0  ~/man
+|4,39,1,0,1680708310,"~/man"
 -'  2  0  ~/mango
 |4,39,2,0,1680706999,"~/mango"
+-'  2  0  ~/mango
+|4,39,2,0,1680706999,"~/mango"
+-'  1  0  ~/mango
+|4,39,1,0,1680706976,"~/mango"
 -'  1  0  ~/mango
 |4,39,1,0,1680706976,"~/mango"
 -'  6  0  ~/capgemini
 |4,39,6,0,1680705865,"~/capgemini"
 -'  6  0  ~/capgemini
 |4,39,6,0,1680705865,"~/capgemini"
+-'  6  0  ~/capgemini
+|4,39,6,0,1680705865,"~/capgemini"
+-'  6  0  ~/capgemini
+|4,39,6,0,1680705865,"~/capgemini"
+-'  1  0  ~/capgemini
+|4,39,1,0,1680705834,"~/capgemini"
+-'  1  0  ~/capgemini
+|4,39,1,0,1680705834,"~/capgemini"
 -'  1  0  ~/capgemini
 |4,39,1,0,1680705834,"~/capgemini"
 -'  1  0  ~/capgemini
 |4,39,1,0,1680705834,"~/capgemini"
 
 # History of marks within files (newest to oldest):
+
+> ~/man
+	*	1680708333	0
+	"	3	0
+	^	3	0
+	.	2	20
+	+	2	20
 
 > ~/mango
 	*	1680706997	0
